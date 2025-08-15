@@ -62,7 +62,7 @@ public class BillingAddressEntity {
 //    public UsersEntity getUser() {
 //        return user;
 //    }
-
+//
 //    public void setUser(UsersEntity user) {
 //        this.user = user;
 //    }
